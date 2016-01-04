@@ -1,6 +1,6 @@
 
     /**
-     * @file Chandelier 0.1.1
+     * @file Chandelier 0.0.1
      * @author László Kardinál <xanadu.dreams@gmail.com>
      * @license MIT
      */
