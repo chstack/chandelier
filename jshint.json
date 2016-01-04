@@ -1,0 +1,9 @@
+{
+    "loopfunc": true,
+    "curly": true,
+    "-W041": false,
+    "unused": true,
+    "undef": true,
+    "strict": true,
+    "predef": [ "window", "module", "process", "console", "Promise", "setTimeout" ]
+}

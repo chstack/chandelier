@@ -1,0 +1,32 @@
+{
+  "name": "chandelier",
+  "version": "0.0.1",
+  "description": "Data management system",
+  "main": "src/chandelier.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec",
+    "lint": "./node_modules/.bin/jshint --config jshint.json ./src/chandelier.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/laszlokardinal/chandelier.git"
+  },
+  "keywords": [
+    "MVC",
+    "model"
+  ],
+  "author": "László Kardinál",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laszlokardinal/chandelier/issues"
+  },
+  "homepage": "https://github.com/laszlokardinal/chandelier",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "chai-shallow-deep-equal": "^1.3.0",
+    "jshint": "^2.9.1-rc2",
+    "mocha": "^2.3.4",
+    "promise": "^7.1.1"
+  }
+}

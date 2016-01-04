@@ -1,0 +1,22 @@
+{
+  "name": "chandelier",
+  "homepage": "https://github.com/laszlokardinal/chandelier",
+  "authors": [
+    "László Kardinál"
+  ],
+  "description": "Data management system",
+  "main": "src/chandelier.js",
+  "moduleType": [],
+  "keywords": [
+    "MVC",
+    "model"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
