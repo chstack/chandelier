@@ -1,3 +1,8 @@
+[![Build Status](https://travis-ci.org/laszlokardinal/chandelier.svg)](https://travis-ci.org/laszlokardinal/chandelier)
+[![npm](https://img.shields.io/npm/v/chandelier.svg)](https://www.npmjs.com/package/chandelier)
+[![bower](https://img.shields.io/bower/v/chandelier.svg)]()
+[![release](https://img.shields.io/github/release/laszlokardinal/chandelier.svg)](https://github.com/laszlokardinal/chandelier/releases)
+
 # Chandelier
 
 Chandelier is a data management system for javascript, with CRUD operations, and event handling, supporting ES6 promises. It can be used as the model in the MVC pattern.
